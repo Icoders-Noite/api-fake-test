@@ -2,6 +2,7 @@
 {
   
   "arduino": {
-    "comando": "R"
+    "luz": "1",
+    "valvula":"0"
   }
 }
