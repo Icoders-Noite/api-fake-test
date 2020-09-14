@@ -3,6 +3,6 @@
   
   "arduino": {
     "luz": "1",
-    "valvula":"0"
+    "valvula":"1"
   }
 }
