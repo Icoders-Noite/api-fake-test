@@ -10,6 +10,9 @@
   },
   "config":{
         "id":15
+  },
+  "cadastro":{
+        "sucesso":true
   }
 
 }
