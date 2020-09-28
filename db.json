@@ -4,5 +4,12 @@
   "arduino": {
     "luz": "1",
     "valvula":"1"
+  },
+  "login":{
+    "entrou":true
+  },
+  "config":{
+        "id":15
   }
+
 }
